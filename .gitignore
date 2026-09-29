@@ -1,0 +1,5 @@
+models/
+*.gguf
+*.gguf.bad
+*.sha256-ok
+__pycache__/
